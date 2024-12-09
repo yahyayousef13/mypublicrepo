@@ -1,0 +1,2 @@
+# mypublicrepo
+remote setup
